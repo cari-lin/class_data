@@ -1,0 +1,312 @@
+id,name,latitude,longitude,total_docks,street_address
+3004,Municipal Services Building Plaza,39.95371,-75.16423,23,1401 John F. Kennedy Blvd.
+3005,"Welcome Park, NPS",39.94733,-75.14403,13,191 S. 2nd St.
+3006,40th & Spruce,39.9522,-75.20311,17,246 S. 40th St.
+3007,"11th & Pine, Kahn Park",39.94517,-75.15993,20,328 S. 11th St.
+3008,Temple University Station,39.98081,-75.15067,17,1076 Berks Street
+3009,33rd & Market,39.95576,-75.18982,14,3318 Market St.
+3010,15th & Spruce,39.94711,-75.16618,22,1483 Spruce St.
+3012,21st & Catharine,39.94218,-75.17747,27,807 S. 21st St.
+3014,"21st & Winter, Franklin Institute",39.95886,-75.17369,25,2090 Winter St.
+3015,"4th & Walnut, NPS",39.94735,-75.14886,11,422 Walnut St.
+3016,"11th & Poplar, John F. Street Community Center",39.96892,-75.1547,15,1100 Poplar St.
+3017,6th & Berks,39.98003,-75.14371,15,527 W. Berks St.
+3018,12th & Filbert,39.95273,-75.15979,18,1200 Filbert St.
+3019,6th & Race,39.95403,-75.14983,15,160 N. 6th St.
+3020,University City Station,39.94855,-75.19007,36,3051 South St.
+3021,18th & JFK,39.9539,-75.16902,34,1750 John F. Kennedy Blvd.
+3022,Amtrak 30th Street Station,39.95472,-75.18323,21,2933 Market Street
+3024,"43rd & Chester, Clark Park",39.94822,-75.20908,19,598 S. 43rd St.
+3025,11th & Washington,39.93724,-75.1612,15,1084 Washington Ave.
+3026,2nd & Lombard,39.94182,-75.1455,17,509 S 2nd St.
+3028,4th & Bainbridge,39.94061,-75.14958,15,404 Bainbridge St.
+3029,36th & Sansom,39.9538,-75.19479,17,125 S. 36th St.
+3031,13th & Montgomery,39.98005,-75.15522,21,1284 W. Montgomery Ave.
+3032,23rd & South,39.94527,-75.17971,20,671 S. 23rd St.
+3033,10th & Chestnut,39.95005,-75.15672,20,921 Chestnut St.
+3034,11th & Reed,39.93315,-75.16248,16,1300 S. 11th Street
+3035,Dornsife Center,39.96271,-75.19419,20,3599 Spring Garden
+3037,Pennsylvania Convention Center,39.95424,-75.16138,21,1321 Arch St.
+3038,The Children's Hospital of Philadelphia (CHOP),39.94781,-75.19409,28,3499 Civic Center Blvd.
+3039,Broad & Girard,39.97157,-75.15993,17,922 N. Broad St.
+3040,17th & Spring Garden,39.96289,-75.16606,21,1684 Spring Garden St.
+3041,"Girard Station, MFL",39.96849,-75.13546,26,1176 Leopard Ave.
+3047,"Independence Mall, NPS",39.95073,-75.14947,20,519 Market St.
+3049,Foglietta Plaza,39.94509,-75.1425,29,3 Dock St.
+3051,23rd & Fairmount,39.96744,-75.17507,37,2237 Fairmount Ave.
+3052,9th & Locust,39.94732,-75.15695,25,923 Locust St.
+3053,Point Breeze & Tasker,39.93231,-75.18154,19,1575 Point Breeze Ave.
+3054,Rodin Museum,39.9625,-75.1742,35,2170 Hamilton St.
+3055,8th & Market,39.95112,-75.15457,15,834 Market St.
+3056,Broad & Oxford,39.97669,-75.15813,22,1501 N. Broad St.
+3057,Philadelphia Museum of Art,39.96439,-75.17987,26,2600 Benjamin Franklin Pkwy
+3059,"Spring Garden Station, BSL",39.96244,-75.16121,21,1415 Spring Garden St.
+3060,Free Library of Philadelphia - Central Library,39.95923,-75.17036,19,302 N. 19th St.
+3063,17th & Pine,39.94633,-75.1698,25,391  S. 17th St.
+3064,"18th & Washington, Chew Playground",39.9384,-75.17327,22,1800 Washington Ave.
+3065,Girard & Hutchinson,39.9707,-75.15171,15,915 W. Girard Ave.
+3066,19th & Lombard,39.94561,-75.17348,29,1910 Lombard St.
+3067,"39th & Mt. Vernon, Mantua Haverford Community Center",39.96411,-75.19973,17,631 N. 39th St.
+3068,Broad & Federal,39.93549,-75.16711,18,1201 S. Broad St.
+3069,4th & Christian,39.93704,-75.15038,23,403 Christian St.
+3072,Front & Carpenter,39.93445,-75.14541,25,925 S. Front St.
+3073,9th & Spring Garden,39.96143,-75.15242,15,802 Spring Garden St.
+3074,44th & Walnut,39.95511,-75.20987,15,160 S. 44th St.
+3075,Fairmount & Ridge,39.96718,-75.16125,12,1413 Fairmount Ave.
+3077,17th & Girard,39.97207,-75.16351,19,1617 Girard Ave.
+3078,19th & Market,39.95355,-75.17192,18,1901 Market St.
+3086,Broad & Christian,39.94019,-75.16691,21,1406 Christian Street
+3088,3rd & Girard,39.96984,-75.1418,35,317 W. Girard Ave. 
+3093,33rd & Diamond,39.98837,-75.18701,16,2039 N. 33rd Street
+3096,29th & Dauphin,39.99119,-75.17975,14,2301 N. 29th Street
+3097,"Berks Station, MFL",39.97888,-75.13339,18,1902 N. Front Street
+3098,10th & Federal,39.93431,-75.16042,19,1201 S. 10th Street
+3099,4th & Washington,39.93401,-75.15094,19,1110 S. 4th Street
+3100,Moyamensing & Tasker,39.92777,-75.15103,38,1600 E. Moyamensing
+3101,11th & South,39.94295,-75.15955,18,1015 South Street
+3102,"Pennsylvania & Fairmount, Perelman Building",39.96759,-75.17952,26,2601 Pennsylvania Avenue
+3104,34th & Mantua,39.96664,-75.19209,13,712 N. 34th Street
+3106,33rd & Dauphin,39.99179,-75.18637,17,2300 N. 33rd Street
+3107,33rd & Reservoir,39.98203,-75.18866,18,1626 N. 33rd Street
+3110,Del. River Trail & Penn St.,39.96175,-75.13641,19,779 Delaware Ave
+3111,"Parkside & Belmont, Case Building",39.97779,-75.21323,14,4601 Parkside Ave
+3112,48th & Spruce,39.95373,-75.21825,18,310 S. 48th Street
+3113,Philadelphia Zoo,39.97472,-75.19781,12,1046 N. 34th Street
+3114,22nd & Federal,39.93775,-75.18012,17,22nd & Federal St.
+3115,"19th & Girard, PTTI",39.97263,-75.16757,18,1901 W. Girard St.
+3116,Barnes Foundation,39.96006,-75.17198,21,2025 Benjamin Franklin Pkwy
+3117,ParkWest Town Center,39.97841,-75.22399,14,1575 N 52nd St.
+3118,"46th Street Station, MFL",39.95866,-75.21323,20,4628 Market Street
+3119,42nd & Lancaster,39.96674,-75.20799,17,4209 Lancaster Avenue
+3120,31st & Girard,39.97522,-75.18669,19,1210 N. 31st Street
+3123,22nd & Cecil B. Moore,39.98004,-75.17088,16,1637 N. 22nd Street
+3124,Race Street Pier,39.95367,-75.13956,17,N Christopher Columbus Blvd (approx.)
+3125,15th & South,39.94391,-75.16735,16,1505 South St. 
+3150,"15th & Castle, DiSilvestro Playground",39.92884,-75.17021,17,1487 Castle Street
+3152,"40th & Baltimore, Trolley Portal",39.94993,-75.20286,17,"3960 Baltimore Ave,"
+3154,12th & Callowhill,39.95924,-75.15821,16,403 N. 12th Street
+3155,7th & Fitzwater,39.94018,-75.15442,18,736 S. 7th St.
+3156,20th & Market,39.95381,-75.17407,22,2005 market street
+3157,"8th & Mifflin, Bok Building",39.92545,-75.15954,18,808 Mifflin St.
+3158,Broad & Passyunk ,39.92552,-75.16904,15,1384 McKean Street
+3159,38th & Spruce,39.95121,-75.19962,23,3804 spruce street
+3160,38th & Market,39.95662,-75.19862,41,3810 Market St.
+3161,30th Street Station East,39.95486,-75.18091,23,Market & Schuylkill Ave
+3162,27th & South,39.94595,-75.18475,34,630 Schuylkill Ave
+3163,25th & Locust,39.94974,-75.18097,22,229 S. 25th Street 
+3164,12th & Passyunk,39.92814,-75.16515,18,1724 S. 12th St
+3165,24th & Race SRT,39.95819,-75.1782,22,2317 Race St
+3166,Frankford & Belgrade,39.97195,-75.13445,22,1400 Frankford Ave
+3169,2nd & Race,39.95382,-75.14263,17,151 Race St
+3181,Crescent Park,39.89629,-75.17514,20,"Crescent Park, Crescent Drive"
+3183,15th & Kitty Hawk,39.88994,-75.17679,20,S. 15th & Kitty Hawk Ave
+3184,Health Sciences Drive,39.94573,-75.19551,22,Health Sciences Drive
+3185,11th & Market ,39.95169,-75.15888,21,11th & Market
+3187,20th & Race,39.95725,-75.17232,19,20th & Race
+3188,"Broad & Pattison, BSL",39.90471,-75.1734,56,3701 Broad Street
+3196,25th & Diamond,39.98717,-75.17477,17,2501 Diamond Street
+3197,Broad & Ritner,39.92083,-75.17033,23,2301 S Broad St.
+3200,Ridge & Master,39.97583,-75.16846,17,2001 Ridge Ave.
+3201,16th & Arch,39.95523,-75.1662,20,107 16th Street
+3203,18th & Christian,39.94077,-75.17227,20,1798 Christian St
+3204,17th & Green,39.96437,-75.16582,22,1698 Green St
+3205,17th & JFK,39.95405,-75.16783,22,1617 John F. Kennedy Blvd
+3207,34th & Chestnut,39.95441,-75.192,20,3400 Chestnut St
+3208,34th & Spruce,39.95048,-75.19324,28,3566 Spruce St
+3209,45th & Baltimore,39.949,-75.21278,14,980 45th St
+3210,Broad & Diamond,39.98492,-75.15668,18,2108 N Broad St
+3211,Corinthian & Poplar,39.97172,-75.1706,22,900 Corinthian Ave
+3212,Schuylkill Banks Pergola,39.96383,-75.18177,32,Schuylkill River Trail
+3213,Broad & Carpenter,39.93887,-75.16663,25,1000 S Broad St
+3226,2nd & Norris,39.98101,-75.13721,18,2007 N 2nd St.
+3235,16th & Callowhill,39.96,-75.1651,15,1500-1598 Callowhill Street
+3236,24th & Pennsylvania ,39.96566,-75.17765,18,2400 Pennsylvania Avenue
+3237,Broad & Oregon,39.91717,-75.17096,21,2621 Broad Street
+3238,Aramingo & Cumberland,39.97674,-75.11995,11,2645 E Cumberland St
+3240,44th & Haverford,39.96277,-75.21185,12,44th & Haverford
+3241,"52nd & Larchwood, Malcolm X Park",39.95225,-75.22637,20,5100 Pine St
+3243,8th & Diamond,39.9835,-75.14743,12,800 Diamond Street
+3245,Broad & Cecil B. Moore,39.97887,-75.15777,20,1701 N Broad Street
+3246,50th & Baltimore,39.94782,-75.22301,17,700 S 50th Street
+3247,"47th & Aspen, Lucien Blackwell",39.96538,-75.21514,16,4681 Aspen Street
+3248,24th & Christian,39.94213,-75.18335,22,2418 Christian Street
+3249,34th & Arch,39.95784,-75.19079,22,3383 Arch Street
+3250,4th & Wood,39.95673,-75.14575,17,390 Wood Street
+3251,29th & Tasker,39.93366,-75.19319,16,2900 Tasker Street
+3252,30th & Oakford,39.93882,-75.19324,14,1206 S 30th Street
+3253,"26th & Moore, Vare Recreation Center",39.93074,-75.18924,21,2635 Moore Street
+3254,16th & Montgomery,39.98091,-75.16065,18,1809 N 16th Street
+3255,Broad & Chestnut,39.95095,-75.16438,15,1405 Chestnut Street
+3256,23rd & Chestnut,39.95269,-75.17779,23,2223 Chestnut Street
+3258,52nd & Chestnut,39.95828,-75.22424,20,5120 Chestnut Street
+3259,Saunders & Pearl,39.95998,-75.19883,17,310 Saunders Avenue
+3261,2nd & Brown,39.96304,-75.14099,17,735 N 2nd Street
+3263,43rd & Powelton,39.9586,-75.2081,18,4261 Powelton Avenue
+3264,8th & Spruce,39.94571,-75.15508,23,800 Spruce Street
+3265,Powelton & Lancaster,39.95957,-75.19633,13,3760 Powelton Avenue
+3266,Water & Mifflin,39.9237,-75.14701,22,1900 S Water Street
+3267,19th & Oregon,39.918,-75.1796,12,1905 Oregon Avenue
+3268,10th & Oxford,39.97633,-75.15101,22,960 W Oxford St
+3271,53rd & Baltimore,39.9476,-75.22946,18,777 S 53rd Street
+3272,50th & Haverford,39.96405,-75.22048,13,5011 Haverford Avenue
+3275,York & Aramingo,39.97576,-75.12157,22,2641 E York Street
+3276,12th & Fairmount,39.96569,-75.15679,18,681 N 12th Street
+3277,20th & Berks,39.98306,-75.16738,20,2013 W Berks St
+3278,22nd & Sedgley,39.99301,-75.1681,11,2517 N 22nd St
+3279,13th & Mifflin,39.9265,-75.1668,18,1229 Mifflin St
+3280,50th & Woodland,39.93968,-75.21362,18,1418 S 50th Street
+3281,Lindbergh & Wheeler,39.9323,-75.2162,15,5498 Lindbergh Blvd
+3282,10th & Nevada,39.98628,-75.14925,15,2224 N 10th Street
+3284,Midvale & Cresson,40.01112,-75.19287,14,3620 Midvale Avenue
+3285,5th & Willow,39.95946,-75.14745,19,442 N 5th Street
+3286,6th & Brown,39.96409,-75.14769,22,719 N 6th Street
+3287,49th & Chester,39.94367,-75.21606,16,1110 S 49th Street
+3291,Ridge & Heritage,40.01022,-75.197,15,4341 Ridge Avenue
+3292,5th & Wolf,39.92,-75.1562,17,510 Wolf Street
+3294,18th & Chestnut,39.95174,-75.17063,21,1805 Chestnut St
+3295,12th & Chestnut,39.95028,-75.16027,21,118 S. 12th St.
+3296,16th & Chestnut,39.95134,-75.16758,21,1603 Chestnut St.
+3297,18th & Vine,39.95821,-75.16901,19,210 N 18th Street
+3298,42nd & Woodland,39.94717,-75.20691,15,641 S 42nd Street
+3299,9th & Lombard,39.94332,-75.15698,22,506 S 9th St
+3300,Broad & Cherry,39.95511,-75.16287,13,119 N Broad Street
+3301,18th & Walnut,39.95029,-75.17126,15,1811 Walnut Street
+3303,41st & Chestnut,39.9559,-75.2053,20,4110 Chestnut Street
+3304,7th & South,39.94234,-75.15399,21,703 South Street
+3305,22nd & Lehigh,39.99569,-75.1671,11,2105 W Lehigh Avenue
+3306,28th & Lehigh,39.99683,-75.17761,11,2820 W Lehigh Avenue
+3307,27th & Clearfield,40.0028,-75.174,11,3103 N 27th Street
+3310,Oxford & Glenwood,39.98024,-75.18651,15,3111 W Glenwood Avenue
+3313,10th & Oregon,39.9158,-75.1643,9,2701 S 10th Street
+3314,Front & Queen,39.93682,-75.14492,17,815 S Front Street
+3315,48th & Woodland,39.94235,-75.21138,13,4796 Woodland Avenue
+3316,16th & Wolf,39.92255,-75.17337,19,2269 S 16th Street
+3318,City Hall South,39.95182,-75.16395,20,5 S Penn Square
+3319,Penn Treaty Park,39.96672,-75.12964,16,1213 N Delaware Avenue
+3320,Broad & Master,39.9746,-75.15917,17,1401 Master Street
+3321,20th & Cuthbert,39.95485,-75.17298,21,53-61 N 20th St
+3322,7th & Passyunk,39.93638,-75.15526,13,1001 E Passyunk Avenue
+3323,Manayunk Bridge,40.02796,-75.2277,18,115 Dupont Street
+3324,"Kelly Drive, Strawberry Mansion Bridge",39.99484,-75.19242,23,2400 Kelly Drive
+3325,Cedar & Norris,39.9768,-75.12764,22,1847 Cedar Street
+3326,"M.L.K. Drive, Strawberry Mansion Bridge",39.99198,-75.19944,17,Martin Luther King Jr Drive
+3327,York & Gaul,39.97759,-75.12442,17,2424 E York Street
+3328,Kelly Drive Grandstand,39.98798,-75.1995,23,1200 Kelly Drive
+3329,Cresson & Levering,40.02651,-75.22445,15,4402 Cresson St
+3331,Girard & Palmer,39.97116,-75.12813,20,501 E Girard Avenue
+3332,32nd & Allegheny,40.00537,-75.18143,12,3159 W Allegheny Ave
+3333,18th & JFK Curbside,39.9541,-75.16965,25,1735 John F Kennedy Blvd
+3334,7th & Dickinson,39.9302,-75.15636,19,645 Dickinson Street
+3335,Main & Shurs,40.02237,-75.218,18,9 Shurs Lane
+3336,36th & Filbert,39.95719,-75.19388,20,31 N 36th Street
+3337,6th & Master,39.97318,-75.14612,15,1410 N 6th Street
+3338,54th & Cedar,39.95098,-75.23035,21,5349 Cedar Avenue
+3340,27th & Pennsylvania,39.96906,-75.18169,17,2698 Pennsylvania Avenue
+3341,York & Trenton,39.98131,-75.12732,20,2145 E York Street
+3342,22nd & Spring Garden,39.9639,-75.17385,20,2122 Spring Garden Avenue
+3344,56th & Chestnut,39.95961,-75.23354,23,5603 Chestnut Street
+3345,5th & Spring Garden,39.9617,-75.14667,19,558 N 5th Street
+3346,6th & Chestnut,39.94883,-75.15097,17,150 S Independence Mall W
+3349,25th & Wharton,39.93651,-75.18621,17,2504 Wharton Street
+3350,Broad & Lehigh,39.99415,-75.15527,20,1427 W Lehigh Ave
+3351,12th & Cambria,39.99655,-75.14991,18,1149 W Cambria Street
+3352,Broad & Allegheny,40.00143,-75.15256,11,1352 W Allegheny Ave
+3353,"Broad & Ontario, Temple Hospital",40.00496,-75.15233,22,3406 N Broad St
+3354,58th & Spruce,39.95628,-75.2387,18,5823 Spruce Street
+3356,12th & Normandy,39.89322,-75.17187,19,1147 Normandy Pl
+3357,10th & Packer,39.9104,-75.16588,27,3356 S 10th St
+3359,17th & Locust,39.94888,-75.16978,29,1717 Locust St
+3360,Broad & Reed,39.93304,-75.16822,22,1401 Reed Street
+3361,"18th & Fernon, Aquinas Center",39.93082,-75.17474,21,1625 S. 18th St. 
+3362,13th & Locust,39.94816,-75.16226,19,221 South 13th Street
+3363,13th & Spruce,39.94655,-75.16263,17,303 South 13th Street
+3365,"32nd & Baring, Drexel Park",39.96173,-75.18788,17,3170 Baring St.
+3368,23rd & Master,39.97647,-75.17362,17,2301 Master Street
+3369,Ridge & Ferry,40.00772,-75.19194,16,N Ferry Street
+3370,Pencoyd Bridge,40.0163,-75.21241,16,3742-3748 Main Street
+3371,9th & Arch,39.9534,-75.1543,19,875 Arch Street
+3372,24th & Jackson,39.92528,-75.18672,15,2200 S 24th Street
+3373,11th & Wood,39.95817,-75.15668,15,1035 Wood Street
+3374,26th & Poplar,39.9728,-75.17971,18,2619 Poplar Street
+3375,"Spring Garden Station, MFL",39.96036,-75.1402,22,120 Spring Garden Street
+3376,Thompson & Franklin,39.97183,-75.14878,8,720 Thompson Street
+3378,4th & Arch,39.95238,-75.14728,18,424 Arch Street
+3381,48th & Baltimore,39.94845,-75.21807,13,4730 Baltimore Avenue
+3382,Walnut & Rittenhouse,39.95038,-75.17309,11,1906 Walnut Street
+3383,"3rd & Wildey, Liberty Lands Park",39.96634,-75.14222,19,955 N 3rd Street
+3385,8th & Chestnut,39.94974,-75.15424,15,811 Chestnut Street
+3387,6th & Girard,39.97012,-75.14666,19,1000 N 6th Street
+3388,8th & Brown,39.96634,-75.15097,19,814 N 8th Street
+3389,Grays Ferry & Pemberton,39.94431,-75.18128,16,2319 Grays Ferry Ave
+3390,"52nd St Station, MFL ",39.96,-75.2244,18,5129 Market Street
+3391,54th & City Ave,39.99667,-75.23482,13,2492 N 54th Street
+3392,30th & Reed,39.93633,-75.19447,13,3002 Reed Street
+3393,2nd & George,39.96727,-75.13999,18,1019 N 2nd Street
+3394,Broad & Snyder,39.924,-75.16959,14,2111 S. Broad Street
+3395,12th & Carpenter,39.93866,-75.16351,13,1220 Carpenter Street
+3396,21st & Passyunk,39.92327,-75.1821,16,2101 W Passyunk Avenue
+3397,21st & Washington,39.93906,-75.17824,15,1101 S 21st Street
+3398,4th & Oregon,39.91551,-75.15474,15,2645 S 4th St
+3399,American & Oxford,39.97502,-75.14006,15,235 Oxford St
+3400,12th & Walnut,39.949,-75.16081,18,1205 Walnut St
+3403,Wynnefield Station,39.99153,-75.22528,15,5001 Wynnefield Avenue
+3404,57th & Master,39.97347,-75.23491,15,1406 N 57th St
+3405,Fitzwater & Juniper,39.94167,-75.16502,16,1336 Fitzwater Street
+3407,American & Berks,39.9785,-75.13911,15,1800 N American St
+3408,2nd & Snyder,39.9216,-75.15,17,2122 S 2nd Street
+3409,"7th & Race, Franklin Square",39.95508,-75.15128,20,208 N 7th St
+3410,"51st & Regent, Kingsessing Library",39.94201,-75.21838,11,1219 S 51st St
+3411,57th & Westminster ,39.96693,-75.23359,15,357 N 57th Street
+3412,Cobbs Creek & Florence,39.93771,-75.23373,15,1609 Cobbs Creek Pkwy
+3413,47th & Lancaster,39.97115,-75.21596,15,1045 N 47th St
+3414,54th & Chester,39.93922,-75.22347,13,5412 Chester Avenue
+3417,Germantown & Huntingdon,39.99146,-75.14808,15,996 W Huntingdon St
+3418,Broad & Erie ,40.00924,-75.15198,17,1408 W Erie Avenue
+3421,Moyamensing & Ritner,39.91972,-75.16408,13,1003 W Moyamensing Ave
+3422,JFK Blvd at Schuylkill Yards,39.95619,-75.18647,10,3130 John F Kennedy Blvd
+3423,"Ridge & Pensdale, Kendrick Recreation Center",40.02826,-75.21106,15,482 Pensdale St
+3425,"York-Dauphin Station, MFL",39.9849,-75.13255,15,107 W Dauphin St
+3426,58th & Kingsessing,39.93448,-75.22764,15,5805 Kingsessing Ave
+3427,"Aramingo & Huntingdon, Aramingo Square",39.97961,-75.11844,14,2620 Aramingo Ave
+3428,57th & Diamond,39.98707,-75.23722,13,2123 N 57th Street
+3430,27th & Girard,39.97408,-75.1801,14,2632 W Girard Ave
+3431,62nd & Market,39.96239,-75.24522,15,6218 Market St
+3432,"Manayunk & Conarroe, Fairview Park",40.03055,-75.21983,11,4420 Manayunk Ave
+3434,"Frankford & Columbia, Palmer Park",39.97487,-75.13286,15,1701 Frankford Ave
+3435,Huntingdon & Collins,39.98451,-75.12348,13,2117 E Huntingdon St
+3436,Allegheny & Richmond,39.98287,-75.10121,13,2801 E Allegheny Ave
+3437,Schuylkill & Wharton,39.93931,-75.20336,15,3655 Wharton St
+3438,"Cedar & Cambria, Cohocksink Recreation Center",39.98421,-75.11304,13,2885 Cedar St
+3439,"Lehigh & B, Temple Episcopal Hospital",39.99033,-75.12759,15,266 E Lehigh Ave
+3440,Almond & Indiana,39.98306,-75.10836,13,2995 Almond St
+3441,22nd & Hamilton,39.96305,-75.17454,5,2191 Pennsylvania Ave
+3442,Kensington & F,39.99426,-75.11791,15,3011 F Street
+3443,Terrace & Hermit,40.02155,-75.21339,10,3903 Terrace St
+3444,23rd & Venango,40.00959,-75.16596,13,2229 W Venango St
+3445,Frankford & Crease,39.97235,-75.13426,3,108 Belgrade St
+3446,Overbrook Station,39.9906,-75.249,13,6085 Drexel Rd
+3447,2nd & Market,39.95009,-75.14467,25,225 Market St
+3448,Broad & Christian East,39.93995,-75.16604,5,1386 Christian St
+3449,6th & S Washington Sq,39.94628,-75.15138,21,234 S 6th Street
+3450,53rd & Morse,39.98525,-75.2287,11,5300 Morse St
+3451,FDR Park,39.90505,-75.17585,16,1502 Pattison Ave
+3452,Columbus & Spring Garden,39.95991,-75.13696,16,579 N Christopher Columbus Blvd
+3453,60th & Columbia,39.98139,-75.24036,15,5923 W Columbia Ave
+3454,4th & Lombard,39.9428,-75.14887,11,475 S 4th St
+3455,Moyamensing & Bigler,39.91486,-75.17691,5,1700 Bigler St
+3459,63rd & Buist,39.92232,-75.22694,13,6334 Buist Ave
+3460,70th & Elmwood,39.91751,-75.23722,13,6941 Elmwood Ave
+3461,"69th & Guyer, James Finnegan Playground",39.91532,-75.23281,13,2800 S 69th St
+3462,20th & Sansom,39.95135,-75.17391,23,2007 Sansom St
+3463,Germantown & St Paul,40.01944,-75.15584,11,4301 Germantown Ave
+3464,53rd & Poplar,39.97031,-75.22688,9,5280 Poplar St
+3465,18th & Pike,40.01309,-75.15714,12,38660 N. 18th St. 
+3468,Snyder & Dorrance,39.92525,-75.1769,13,1830 W Snyder Ave
+3469,10th & Phillies,39.90763,-75.16648,21,3500 S 10th St
+3470,22nd & Spruce,39.94868,-75.1781,17,2205 Spruce St. 
+3472,Bryn Mawr & City Ave,39.99897,-75.23062,4,2437 Bryn Mawr Avenue
+3473,23rd & Market ,39.95427,-75.17758,27,2261 Market St
+3475,Lemon Hill West,39.96931,-75.1841,48,Kelly Dr & Sedgley Dr
+3476,Lemon Hill East,39.96926,-75.1837,51,Kelly Dr & Sedgley Dr
+3478,24th & Sansom,39.95197,-75.17943,11,120 S. 24th St.
+3000,Virtual Station,,,,
